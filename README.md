@@ -12,7 +12,7 @@ The main motivation is of course to successfully complete the assignment but in 
 
 Overall the code in this repository aims to answer the following three questions:
 
-1. Are there interesting features in the data set which support the common expectation of an Airbnb user? Can we spot interesting fact by looking just how such features are correlated?
+1. Are there interesting features in the data set which support the common expectation of an Airbnb user? Can we spot interesting facts by looking just how such features are correlated?
 2. Can we predict prices better than the simple average value of $174?
 3. What are the most important features determining the price of a listing?
 
